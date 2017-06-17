@@ -18,5 +18,4 @@ export default class JWT {
     this._$window.localStorage.removeItem(this._AppConstants.jwtKey);
   }
 
-
 }

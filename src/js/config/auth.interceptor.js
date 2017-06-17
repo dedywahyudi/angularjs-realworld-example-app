@@ -1,5 +1,5 @@
 function authInterceptor(JWT, AppConstants, $window, $q) {
-  'ngInject';
+  'ngInject'
 
   return {
     // automatically attach Authorization header
